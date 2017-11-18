@@ -35,11 +35,11 @@
 2. 从 [Projects](https://github.com/guoyueting/POSTCSS-CN/tree/postcss-md-dev-1.0.0) 中所有由 [`待翻译`](https://github.com/guoyueting/POSTCSS-CN/issues) 标记的文章中，选择一篇自己感兴趣的进行翻译，并在评论中留下**你翻译预计完成的时间**
 3. 翻译完毕，提交到自己的分支。<br>
 	整个git操作步骤如下:
-	* 克隆仓库到本地 git clone https://github.com/guoyueting/POSTCSS-CN.git
-	* 创建并切换到自己的分支 git checkout -b 'dev-1.1.0-guoyueting' （命名时请参照dev-1.1.0-翻译人员姓名）
-	* git add .
-	* git commit -m'翻译的文档路径及文件名称'
-	* git push [remoteName] [localBranchName]，若远程仓不存在，则采用git push origin [localBranchName] 
+	* 克隆仓库到本地 `git clone https://github.com/guoyueting/POSTCSS-CN.git`
+	* 创建并切换到自己的分支 `git checkout -b 'dev-1.1.0-guoyueting'` （命名时请参照dev-1.1.0-翻译人员姓名）
+	* `git add .`
+	* `git commit -m'翻译的文档路径及文件名称'`
+	* `git push [remoteName] [localBranchName]`，若远程仓不存在，则采用`git push origin [localBranchName]`
 
 	详细的git操作请参考[Git官方文档](https://git-scm.com/book/zh/v2)
 4. 记得修改issue标签为待校对<br>
