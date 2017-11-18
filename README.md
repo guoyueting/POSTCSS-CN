@@ -1,7 +1,7 @@
 # PostCSS中文文档
 
 ### 参与翻译
-* [关于翻译/校对 - 任务认领](https://github.com/guoyueting)
+* [关于翻译/校对 - 任务认领](https://github.com/guoyueting/POSTCSS-CN/issues/3)
 
 
 ### 关于需要翻译文件的目录结构
